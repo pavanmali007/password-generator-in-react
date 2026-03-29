@@ -39,8 +39,6 @@ password-generator/
 │
 ├── index.html
 ├── package.json
-├── vite.config.js
-└── README.md
 ```
 
 ---
