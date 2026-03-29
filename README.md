@@ -34,7 +34,6 @@ password-generator/
 │
 ├── src/
 │   ├── App.jsx
-│   ├── App.css
 │   ├── main.jsx
 │   └── index.css
 │
